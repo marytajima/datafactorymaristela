@@ -1,0 +1,9 @@
+{
+	"name": "servicosbostonadfmaristela",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35426cc3-b7c3-439f-8541-12c21d4f9921",
+		"tenantId": "7200db5f-aa8e-42e3-80a3-7ddf2a6d2b74"
+	}
+}
