@@ -1,0 +1,12 @@
+{
+	"name": "AzureBlobStoragels",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=dadosbostonmaristela;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDAzNDREODAyLUQ4NkEtNDlEMy1BQ0M3LTFDQTQ3NjM3RDkzOF85Y2ExNGRkNy0xOGZjLTRiNTMtODY3MS0xN2U2ODRkYjk1ZTUiDQp9"
+		}
+	}
+}
